@@ -1,0 +1,18 @@
+PROYECTO DAW - JUAN ANTONIO SANJUÁN SEGURA - ENERO 2018 - RESERVMANAGER - GESTOR DE RESERVAS Y COLAS DE TRABAJO
+
+Documentos:
+	PRINCIPAL:
+	- sanjuan_segura_juanantonio_proyectoDAW_ReservManager.pdf -> Documentación del proyecto.
+	- ReservManager.zip -> contiene los ficheros de la aplicación. Se encuentra desplegada y en funcionamiento en:
+		www.http://juan.infenlaces.com/ReservManager/
+		(Vesta).
+	ADJUNTOS:
+	- PropuestaProyecto.doc -> Propuesta inicial del proyecto
+	- reservManager.sql -> Estructura y población de la base de datos.
+	- reservManager.mbr -> Bocetos diseño previo.
+	- ganntReservmanager -> contiene la distribución temporal y el diagrama de Gantt. Proyecto de projectlibre.
+	- Licencia.doc -> contrato de licencia de usuario.
+
+
+ProjectManager© 2018 - Todos los derechos reservados. 
+	
